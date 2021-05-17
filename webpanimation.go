@@ -1,4 +1,4 @@
-package webpanimation
+package webp
 
 import (
 	"errors"
